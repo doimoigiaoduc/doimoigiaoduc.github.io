@@ -3,29 +3,42 @@
   
   
   <url>
-    <loc>http://yoursite.com/blog/2014/08/18/chao-cac-ban/</loc>
+    <loc>http://doimoigiaoduc.github.io/blog/2014/08/18/con-gai-utbiol/</loc>
+    <lastmod>2014-08-18T03:05:46-07:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://doimoigiaoduc.github.io/blog/2014/08/18/chao-cac-ban/</loc>
     <lastmod>2014-08-18T02:46:14-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   
   <url>
-    <loc>http://yoursite.com/blog/archives/</loc>
-    <lastmod>2014-08-18T02:47:19-07:00</lastmod>
+    <loc>http://doimoigiaoduc.github.io/blog/archives/</loc>
+    <lastmod>2014-08-18T03:43:31-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://yoursite.com/</loc>
-    <lastmod>2014-08-18T02:47:19-07:00</lastmod>
+    <loc>http://doimoigiaoduc.github.io/</loc>
+    <lastmod>2014-08-18T03:43:31-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>http://yoursite.com/about-me/</loc>
-    <lastmod>2014-08-18T02:47:19-07:00</lastmod>
+    <loc>http://doimoigiaoduc.github.io/tinh-te/</loc>
+    <lastmod>2014-08-18T03:43:31-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://doimoigiaoduc.github.io/about-me/</loc>
+    <lastmod>2014-08-18T03:43:31-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

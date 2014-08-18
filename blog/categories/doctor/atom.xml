@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Đổi mới giáo dục blog]]></title>
-  <link href="http://doimoigiaoduc.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: doctor | Đổi mới giáo dục blog]]></title>
+  <link href="http://doimoigiaoduc.github.io/blog/categories/doctor/atom.xml" rel="self"/>
   <link href="http://doimoigiaoduc.github.io/"/>
   <updated>2014-08-18T03:43:31-07:00</updated>
   <id>http://doimoigiaoduc.github.io/</id>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Con gái Utbiol]]></title>
-    <link href="http://doimoigiaoduc.github.io/blog/2014/08/18/con-gai-utbiol/"/>
-    <updated>2014-08-18T03:05:46-07:00</updated>
-    <id>http://doimoigiaoduc.github.io/blog/2014/08/18/con-gai-utbiol</id>
-    <content type="html"><![CDATA[<p>Con gái tôi năm nay mới 12 tuổi à.</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Chào các bạn!]]></title>
